@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <h1 className=" text-center">Hello World</h1>
+      <h1 className=" text-center">Hello World new</h1>
       <div className=" flex h-screen  justify-center items-center">
         <iframe
           src="https://app.acuityscheduling.com/schedule.php?owner=35575719"
